@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 Calculator created with Java. This is my first private GUI project and my first contact with GitHub.
 
 ## Technologies
